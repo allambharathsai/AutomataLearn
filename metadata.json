@@ -1,0 +1,6 @@
+{
+  "name": "AutomataLearn",
+  "description": "Theory of Computation Interactive Laboratory: FA ↔ RG Conversions, RLG vs LLG, Grammar Reversals & Classification",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
